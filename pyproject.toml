@@ -3,6 +3,7 @@ name = "ppr-handler"
 description = "urllib.request handler for scheme ppr: Python Package Resource files."
 readme = "readme.md"
 requires-python = ">=3.7"
+license.file = "LICENSE"
 authors = [{ name = "Filip Thyssen", email = "filip.thyssen@gmail.com" }]
 keywords = ["ppr", "urllib"]
 classifiers = [
